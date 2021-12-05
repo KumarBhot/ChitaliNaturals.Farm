@@ -5,7 +5,7 @@ image: /img/aerial.png
 heading: पुनर्उत्पादक शेती
 subheading: निरोगी माती. निरोगी अन्न. निरोगी जीवन.
 mainpitch:
-  title: Why Kaldi
+  title: चितळी नॅच्यरलस्'च का?
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
